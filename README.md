@@ -3,7 +3,7 @@
 :gb: My favorite subjects are the electronic management of electric bikes, metrology in general and home automation.  
 I use Arduino, ESP32 or Attiny modules for most of my projects.
 
-:fr: Mes sujets de prédilection sont la gestion electronqiue de vélos électriques, la métrologie en général et la domotique.  
+:fr: Mes sujets de prédilection sont la gestion électronique de vélos électriques, la métrologie en général et la domotique.  
 J'utilise pour la plupart de mes projets des modules Arduino, ESP32 ou Attiny.
 <!--
 **Chris741233/Chris741233** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
